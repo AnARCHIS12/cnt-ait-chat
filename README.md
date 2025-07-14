@@ -17,7 +17,7 @@ Pour toute demande d’accès ou d’information, contactez l’équipe CNT-AIT 
 
 ## Liens utiles
 - [Plateforme Partage Social](https://partage-social.cnt-ait-contact.noho.st/element/)
-- [Site principal CNT-AIT](https://cnt-ait-contact.noho.st)
+- [Site principal CNT-AIT](https://cnt-ai-chat.netlify.app/)
 
 ---
 © 2025 CNT-AIT. Tous droits réservés.
